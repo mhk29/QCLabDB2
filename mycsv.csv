@@ -1,23 +1,24 @@
 im_path,notes,uploader,x_path,y_path,z_path,nifti_path,etc,long_notes,image_id,mask_path
-,"m, ",,../images/B51315_invivoAPOE1_labels_x.jpg,../images/B51315_invivoAPOE1_labels_y.jpg,../images/B51315_invivoAPOE1_labels_z.jpg,../images/B51315_invivoAPOE1_labels.nii.gz,,"jmn ",,../images/B51836_T1_masked.nii.gz
-,"m, ",,../images/B51315_invivoAPOE1_labels_x.jpg,../images/B51315_invivoAPOE1_labels_y.jpg,../images/B51315_invivoAPOE1_labels_z.jpg,../images/B51315_invivoAPOE1_labels.nii.gz,,"jmn ",2,../images/B51836_T1_masked.nii.gz
-,"m, ",,../images/B51315_invivoAPOE1_labels_x.jpg,../images/B51315_invivoAPOE1_labels_y.jpg,../images/B51315_invivoAPOE1_labels_z.jpg,../images/B51315_invivoAPOE1_labels.nii.gz,,"jmn ",2,../images/B51836_T1_masked.nii.gz
-,"m, ",,../images/B51315_invivoAPOE1_labels_x.jpg,../images/B51315_invivoAPOE1_labels_y.jpg,../images/B51315_invivoAPOE1_labels_z.jpg,../images/B51315_invivoAPOE1_labels.nii.gz,,"jmn ",2,../images/B51836_T1_masked.nii.gz
-,"m, ",,../images/B51315_invivoAPOE1_labels_x.jpg,../images/B51315_invivoAPOE1_labels_y.jpg,../images/B51315_invivoAPOE1_labels_z.jpg,../images/B51315_invivoAPOE1_labels.nii.gz,,"jmn ",2,../images/B51836_T1_masked.nii.gz
-,"m, ",,../images/B51315_invivoAPOE1_labels_x.jpg,../images/B51315_invivoAPOE1_labels_y.jpg,../images/B51315_invivoAPOE1_labels_z.jpg,../images/B51315_invivoAPOE1_labels.nii.gz,,"jmn ",2,../images/B51836_T1_masked.nii.gz
-,"m, ",,../images/B51315_invivoAPOE1_labels_x.jpg,../images/B51315_invivoAPOE1_labels_y.jpg,../images/B51315_invivoAPOE1_labels_z.jpg,../images/B51315_invivoAPOE1_labels.nii.gz,,"jmn ",2,../images/
-,hjk,,../images/_x.jpg,../images/_y.jpg,../images/_z.jpg,../images/,,jkl,2,../images/B04251_masked.nii
-,hjk,,../images/B03739_x.jpg,../images/B03739_y.jpg,../images/B03739_z.jpg,../images/B03739.nii,,jkl,2,../images/
-,hjk,,../images/B03719_x.jpg,../images/B03719_y.jpg,../images/B03719_z.jpg,../images/B03719.nii,,jkl,2,../images/
-,hjk,,../images/B03719_x.jpg,../images/B03719_y.jpg,../images/B03719_z.jpg,../images/B03719.nii,,jkl,2,../images/
-,hjk,,../images/B03719_x.jpg,../images/B03719_y.jpg,../images/B03719_z.jpg,../images/B03719.nii,,jkl,2,../images/
-,hjk,,../images/B51315_invivoAPOE1_labels_x.jpg,../images/B51315_invivoAPOE1_labels_y.jpg,../images/B51315_invivoAPOE1_labels_z.jpg,../images/B51315_invivoAPOE1_labels.nii.gz,,jkl,,../images/B51836_T1_masked.nii.gz
-,hjk,,../images/B51315_invivoAPOE1_labels_x.jpg,../images/B51315_invivoAPOE1_labels_y.jpg,../images/B51315_invivoAPOE1_labels_z.jpg,../images/B51315_invivoAPOE1_labels.nii.gz,,jkl,,../images/B51836_T1_masked.nii.gz
-,hjk,,../images/B51315_invivoAPOE1_labels_x.jpg,../images/B51315_invivoAPOE1_labels_y.jpg,../images/B51315_invivoAPOE1_labels_z.jpg,../images/B51315_invivoAPOE1_labels.nii.gz,,jkl,,../images/B51836_T1_masked.nii.gz
-,hjk,,../images/B51315_invivoAPOE1_labels_x.jpg,../images/B51315_invivoAPOE1_labels_y.jpg,../images/B51315_invivoAPOE1_labels_z.jpg,../images/B51315_invivoAPOE1_labels.nii.gz,,jkl,,../images/B51836_T1_masked.nii.gz
-,hjk,,../images/B51315_invivoAPOE1_labels_x.jpg,../images/B51315_invivoAPOE1_labels_y.jpg,../images/B51315_invivoAPOE1_labels_z.jpg,../images/B51315_invivoAPOE1_labels.nii.gz,,jkl,,../images/B51836_T1_masked.nii.gz
-,hjk,,../images/B51315_invivoAPOE1_labels_x.jpg,../images/B51315_invivoAPOE1_labels_y.jpg,../images/B51315_invivoAPOE1_labels_z.jpg,../images/B51315_invivoAPOE1_labels.nii.gz,,jkl,,../images/B51836_T1_masked.nii.gz
-,hjk,,../images/B51315_invivoAPOE1_labels_x.jpg,../images/B51315_invivoAPOE1_labels_y.jpg,../images/B51315_invivoAPOE1_labels_z.jpg,../images/B51315_invivoAPOE1_labels.nii.gz,,jkl,,../images/B51836_T1_masked.nii.gz
-,hjk,,../images/B51315_invivoAPOE1_labels_x.jpg,../images/B51315_invivoAPOE1_labels_y.jpg,../images/B51315_invivoAPOE1_labels_z.jpg,../images/B51315_invivoAPOE1_labels.nii.gz,,jkl,,../images/B51836_T1_masked.nii.gz
-,hjk,,../images/B51315_invivoAPOE1_labels_x.jpg,../images/B51315_invivoAPOE1_labels_y.jpg,../images/B51315_invivoAPOE1_labels_z.jpg,../images/B51315_invivoAPOE1_labels.nii.gz,,jkl,20,../images/B51836_T1_masked.nii.gz
-,hjk,,../images/B51315_invivoAPOE1_labels_x.jpg,../images/B51315_invivoAPOE1_labels_y.jpg,../images/B51315_invivoAPOE1_labels_z.jpg,../images/B51315_invivoAPOE1_labels.nii.gz,,jkl,21,../images/B51836_T1_masked.nii.gz
+,mydesc,,myimage_x.jpg,myimage_y.jpg,"myimage_z.jpg
+",myimage.nii,,"my longer desc",1960123,myimage_masked.nii
+,asdf,,notmyim_x.jpg,notmyim_y.jpg,"notmyim_z.jpg
+",notmyim.nii,,asdfgfdsasdfgfds,1960432,notmyim_masked.nii
+,mydesc,,myimage_x.jpg,myimage_y.jpg,"myimage_z.jpg
+",myimage.nii,,"my longer desc",1960123,myimage_masked.nii
+,asdf,,notmyim_x.jpg,notmyim_y.jpg,"notmyim_z.jpg
+",notmyim.nii,,asdfgfdsasdfgfds,1960432,notmyim_masked.nii
+,mydesc,,myimage_x.jpg,myimage_y.jpg,"myimage_z.jpg
+",myimage.nii,,"my longer desc",1960123,myimage_masked.nii
+,asdf,,notmyim_x.jpg,notmyim_y.jpg,"notmyim_z.jpg
+",notmyim.nii,,asdfgfdsasdfgfds,1960432,notmyim_masked.nii
+,mydesc,,myimage_x.jpg,myimage_y.jpg,"myimage_z.jpg
+",myimage.nii,,"my longer desc",1960123,myimage_masked.nii
+,asdf,,notmyim_x.jpg,notmyim_y.jpg,"notmyim_z.jpg
+",notmyim.nii,,asdfgfdsasdfgfds,1960432,notmyim_masked.nii
+,,,../images/B03870_x.jpg,../images/B03870_y.jpg,../images/B03870_z.jpg,../images/B03870.nii,,,8,../images/
+,,,../images/B03870_x.jpg,../images/B03870_y.jpg,../images/B03870_z.jpg,../images/B03870.nii,,,9,../images/
+,,,../images/B03870_x.jpg,../images/B03870_y.jpg,../images/B03870_z.jpg,../images/B03870.nii,,,10,../images/
+,mydesc,,myimage_x.jpg,myimage_y.jpg,"myimage_z.jpg
+",myimage.nii,,"my longer desc",1960123,myimage_masked.nii
+,asdf,,notmyim_x.jpg,notmyim_y.jpg,"notmyim_z.jpg
+",notmyim.nii,,asdfgfdsasdfgfds,1960432,notmyim_masked.nii

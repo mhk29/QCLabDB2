@@ -1,7 +1,8 @@
 <?php 
     //We assume that there is an error until this is overwritten
     $msg = "No Nifti image uploaded";
-    // $msg2 = "No Label file uploaded";
+    $msg2 = "No Label file uploaded";
+    $msg3 = "No JSON file uploaded";
     // Connect to the DB
     $db = mysqli_connect("127.0.0.1", "root", "Kefalonia1!", "brainwiz");
     //We only run this if we got here by having pressed the upload button on the previous page.
@@ -30,6 +31,15 @@
                 $msg2 = "There was a problem uploading the labels.";
             }
         }
+
+        if($_FILES['json']['name']){
+            if (move_uploaded_file($_FILES['json']['tmp_name'], $label_path)){
+                $msg3 = "JSON uploaded succesfully!";
+            }else{
+                $msg3 = "There was a problem uploading the JSON.";
+            }
+        }
+
 
         shell_exec("python3 centerslice.py ".$nifti_path." ".$x_path." ".$y_path." ".$z_path."");
 
@@ -94,6 +104,7 @@
         // This displays whether we had a sucess or a failue
         echo "<h1>".$msg."</h1>";
         echo "<h1>".$msg2."</h1>";
+        echo "<h1>".$msg3."</h1>";
         // Here we use the $last_id to get the most recent image
         if(!isset($last_id)){
             $sql = "SELECT image_id FROM images ORDER BY image_id DESC LIMIT 1";

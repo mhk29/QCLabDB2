@@ -52,7 +52,7 @@
     <div id=content>
     <h1>Upload Image</h1>
     <form action="uploadprocess.php" method="post" accept-charset="utf-8" enctype="multipart/form-data">
-        <input type="hidden" name="size" value="1000000">
+        <input type="hidden" name="size" value="100000000">
         <h4> File </h4>
         <div>
             <div>
@@ -62,9 +62,14 @@
              <div>
                 Upload Label File:  
                 <input type="file" name="label">
-            </div>
+            </div> <br />
+            <div>
+                Upload JSON File:  
+                <input type="file" name="json">
+                <div><em>Note: if none uploaded,
+                    a standard non-customized JSON will be used </em></div>
+            </div> <br />
          </div>
-        <br>
 
         <div>
             <h4> Text Description </h4>

@@ -1,0 +1,51 @@
+{
+	"dimensions":{
+		"x":[1,""],
+		"y":[1,""],
+		"z":[1,""]
+	},
+
+	"position":[
+		12.660313606262207,
+		6.433258533477783,
+		7.5
+	],
+
+	"crossSectionScale":0.04978706836786394,
+
+	"projectionOrientation":[
+		0.010284251533448696,
+		0.007806878071278334,
+		-0.3532925546169281,
+		0.9354237914085388
+	],
+
+	"projectionScale":32,
+
+	"layers":[
+		{
+			"type":"image",
+			"source":"nifti://http://localhost:8888/brainwhiz/images/B03870.nii",
+			"tab":"source"
+			,"name":"B03870.nii"
+		},
+
+		{
+			"type":"segmentation",
+			"source":
+				{"url":"nifti://http://localhost:8888/brainwhiz/images/B03870_masked.nii",
+						"transform":{"matrix":[[1,0,0,0],[0,1,0,0],[0,0,1,0]],
+						"outputDimensions":{"x":[1,""],"y":[1,""],"z":[1,""]}
+					}
+				},
+			"tab":"source",
+			"name":"B03870_masked.nii"
+		}
+	],
+
+	"selectedLayer":{
+		"layer":"B03870_masked.nii"
+	},
+	
+	"layout":"4panel"
+}
